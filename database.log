@@ -1,0 +1,252 @@
+2024-06-12 22:30:20,372 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-12 22:30:20,372 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-12 22:30:20,379 - INFO -  * Restarting with stat
+2024-06-12 22:30:20,886 - WARNING -  * Debugger is active!
+2024-06-12 22:30:20,892 - INFO -  * Debugger PIN: 141-601-675
+2024-06-12 22:30:51,328 - INFO - 127.0.0.1 - - [12/Jun/2024 22:30:51] "GET / HTTP/1.1" 200 -
+2024-06-12 22:30:51,504 - INFO - 127.0.0.1 - - [12/Jun/2024 22:30:51] "GET /static/style_login.css HTTP/1.1" 200 -
+2024-06-12 22:30:53,350 - INFO - 127.0.0.1 - - [12/Jun/2024 22:30:53] "POST /login HTTP/1.1" 200 -
+2024-06-12 22:30:57,594 - INFO - 127.0.0.1 - - [12/Jun/2024 22:30:57] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 22:30:57,634 - INFO - 127.0.0.1 - - [12/Jun/2024 22:30:57] "GET /static/style_conteudo.css HTTP/1.1" 200 -
+2024-06-12 22:31:04,928 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:04] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-12 22:31:04,935 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:04] "GET / HTTP/1.1" 200 -
+2024-06-12 22:31:04,975 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:04] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:31:06,825 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 22:31:06,861 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:06] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:31:06,894 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:06] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:31:06,932 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:06] "GET /static/script.js HTTP/1.1" 200 -
+2024-06-12 22:31:16,040 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:16] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:31:16,111 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:16] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:31:16,111 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:31:38,881 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:38] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:31:38,924 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:38] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:31:38,926 - INFO - 127.0.0.1 - - [12/Jun/2024 22:31:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:36:32,985 - INFO - 127.0.0.1 - - [12/Jun/2024 22:36:32] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:36:33,023 - INFO - 127.0.0.1 - - [12/Jun/2024 22:36:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:36:33,028 - INFO - 127.0.0.1 - - [12/Jun/2024 22:36:33] "GET /static/style_conteudo.css HTTP/1.1" 200 -
+2024-06-12 22:41:23,848 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:23] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:41:23,884 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:41:23,891 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:23] "GET /static/style_conteudo.css HTTP/1.1" 200 -
+2024-06-12 22:41:55,190 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:55] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:41:55,218 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:55] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:41:55,219 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:41:55,229 - INFO - 127.0.0.1 - - [12/Jun/2024 22:41:55] "GET /static/script.js HTTP/1.1" 200 -
+2024-06-12 22:42:11,037 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:11] "GET / HTTP/1.1" 200 -
+2024-06-12 22:42:11,075 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:11] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:12,424 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:12] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 22:42:12,431 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:12] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:42:12,476 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:12] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:12,478 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:12,492 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:15,053 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:15] "GET / HTTP/1.1" 200 -
+2024-06-12 22:42:15,092 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:15] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:15,997 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:15] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 22:42:16,043 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:16] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:39,313 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:39] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-12 22:42:39,320 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:39] "GET / HTTP/1.1" 200 -
+2024-06-12 22:42:39,362 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:39] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:40,882 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 22:42:40,889 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:40] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:42:40,936 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:40] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:40,937 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:40,954 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:44,861 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:44] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:42:44,903 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:44] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:44,904 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:44,917 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:51,924 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:51] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:42:51,960 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:51] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:51,965 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:51,975 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:52,199 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:52] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:42:52,300 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:42:52,300 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:52] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:42:52,314 - INFO - 127.0.0.1 - - [12/Jun/2024 22:42:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:43:04,546 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:04] "GET / HTTP/1.1" 200 -
+2024-06-12 22:43:04,576 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:04] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:43:05,823 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 22:43:05,831 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:05] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:43:05,868 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:05] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:43:05,869 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:43:05,883 - INFO - 127.0.0.1 - - [12/Jun/2024 22:43:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:10,998 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:10] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:48:11,037 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:11,045 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "GET /static/style_conteudo.css HTTP/1.1" 200 -
+2024-06-12 22:48:11,046 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:11,339 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:48:11,385 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:48:11,387 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:11,396 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:19,307 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:19] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:48:19,343 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:19] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:48:19,345 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:19,361 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:48:40,221 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:40] "GET / HTTP/1.1" 200 -
+2024-06-12 22:48:40,265 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:40] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:48:47,845 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:47] "GET / HTTP/1.1" 200 -
+2024-06-12 22:48:47,883 - INFO - 127.0.0.1 - - [12/Jun/2024 22:48:47] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:55:24,938 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:24] "GET / HTTP/1.1" 200 -
+2024-06-12 22:55:24,990 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:24] "GET /static/style_login.css HTTP/1.1" 200 -
+2024-06-12 22:55:25,230 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:25] "GET / HTTP/1.1" 200 -
+2024-06-12 22:55:25,272 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:25] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:55:53,600 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:53] "GET / HTTP/1.1" 200 -
+2024-06-12 22:55:53,646 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:53] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 22:55:56,921 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 22:55:56,928 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:56] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 22:55:56,973 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:56] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 22:55:56,974 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 22:55:59,257 - INFO - 127.0.0.1 - - [12/Jun/2024 22:55:59] "GET /editar/11 HTTP/1.1" 200 -
+2024-06-12 22:58:58,979 - INFO - 127.0.0.1 - - [12/Jun/2024 22:58:58] "GET /editar/11 HTTP/1.1" 200 -
+2024-06-12 22:58:59,032 - INFO - 127.0.0.1 - - [12/Jun/2024 22:58:59] "GET /static/style_editreg.css HTTP/1.1" 200 -
+2024-06-12 23:01:31,796 - INFO - 127.0.0.1 - - [12/Jun/2024 23:01:31] "[32mPOST /editar/11 HTTP/1.1[0m" 302 -
+2024-06-12 23:01:31,804 - INFO - 127.0.0.1 - - [12/Jun/2024 23:01:31] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:01:31,852 - INFO - 127.0.0.1 - - [12/Jun/2024 23:01:31] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:01:31,853 - INFO - 127.0.0.1 - - [12/Jun/2024 23:01:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 23:02:21,889 - INFO - 127.0.0.1 - - [12/Jun/2024 23:02:21] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:02:21,923 - INFO - 127.0.0.1 - - [12/Jun/2024 23:02:21] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:02:21,925 - INFO - 127.0.0.1 - - [12/Jun/2024 23:02:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 23:05:07,519 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:07] "[35m[1mGET /conteudo HTTP/1.1[0m" 500 -
+2024-06-12 23:05:07,567 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:07] "GET /conteudo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-12 23:05:07,590 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:07] "GET /conteudo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-12 23:05:07,656 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:07] "GET /conteudo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-12 23:05:07,673 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:07] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-12 23:05:15,572 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:15] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:05:15,607 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:15] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:05:15,608 - INFO - 127.0.0.1 - - [12/Jun/2024 23:05:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 23:06:56,444 - INFO - 127.0.0.1 - - [12/Jun/2024 23:06:56] "[35m[1mGET /conteudo HTTP/1.1[0m" 500 -
+2024-06-12 23:06:56,493 - INFO - 127.0.0.1 - - [12/Jun/2024 23:06:56] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-12 23:06:56,495 - INFO - 127.0.0.1 - - [12/Jun/2024 23:06:56] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-12 23:06:56,515 - INFO - 127.0.0.1 - - [12/Jun/2024 23:06:56] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-12 23:06:56,535 - INFO - 127.0.0.1 - - [12/Jun/2024 23:06:56] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-12 23:07:20,241 - INFO - 127.0.0.1 - - [12/Jun/2024 23:07:20] "[35m[1mGET /conteudo HTTP/1.1[0m" 500 -
+2024-06-12 23:07:20,274 - INFO - 127.0.0.1 - - [12/Jun/2024 23:07:20] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-12 23:07:20,278 - INFO - 127.0.0.1 - - [12/Jun/2024 23:07:20] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-12 23:07:20,297 - INFO - 127.0.0.1 - - [12/Jun/2024 23:07:20] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-12 23:07:20,313 - INFO - 127.0.0.1 - - [12/Jun/2024 23:07:20] "[36mGET /conteudo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-12 23:09:26,164 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-12 23:09:26,165 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-12 23:09:26,166 - INFO -  * Restarting with stat
+2024-06-12 23:09:26,734 - WARNING -  * Debugger is active!
+2024-06-12 23:09:26,742 - INFO -  * Debugger PIN: 141-601-675
+2024-06-12 23:09:37,470 - INFO - 127.0.0.1 - - [12/Jun/2024 23:09:37] "GET / HTTP/1.1" 200 -
+2024-06-12 23:09:37,661 - INFO - 127.0.0.1 - - [12/Jun/2024 23:09:37] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:09:56,888 - INFO - 127.0.0.1 - - [12/Jun/2024 23:09:56] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 23:09:56,925 - INFO - 127.0.0.1 - - [12/Jun/2024 23:09:56] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:12:36,044 - INFO - 127.0.0.1 - - [12/Jun/2024 23:12:36] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 23:12:36,088 - INFO - 127.0.0.1 - - [12/Jun/2024 23:12:36] "GET /static/style_cadastro.css HTTP/1.1" 200 -
+2024-06-12 23:31:54,415 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-12 23:31:54,415 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-12 23:31:54,418 - INFO -  * Restarting with stat
+2024-06-12 23:31:55,006 - WARNING -  * Debugger is active!
+2024-06-12 23:31:55,013 - INFO -  * Debugger PIN: 878-640-955
+2024-06-12 23:32:06,331 - INFO - 127.0.0.1 - - [12/Jun/2024 23:32:06] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:32:06,584 - INFO - 127.0.0.1 - - [12/Jun/2024 23:32:06] "GET /static/style_conteudo.css HTTP/1.1" 200 -
+2024-06-12 23:32:06,594 - INFO - 127.0.0.1 - - [12/Jun/2024 23:32:06] "GET /static/script.js HTTP/1.1" 200 -
+2024-06-12 23:55:14,223 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-12 23:55:14,223 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-12 23:55:14,231 - INFO -  * Restarting with stat
+2024-06-12 23:55:14,765 - WARNING -  * Debugger is active!
+2024-06-12 23:55:14,773 - INFO -  * Debugger PIN: 878-640-955
+2024-06-12 23:55:19,130 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:19] "GET / HTTP/1.1" 200 -
+2024-06-12 23:55:19,296 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:19] "GET /static/style_login.css HTTP/1.1" 200 -
+2024-06-12 23:55:44,454 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:44] "POST /login HTTP/1.1" 200 -
+2024-06-12 23:55:48,056 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:48] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 23:55:48,090 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:48] "GET /static/style_cadastro.css HTTP/1.1" 200 -
+2024-06-12 23:55:52,614 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:52] "GET / HTTP/1.1" 200 -
+2024-06-12 23:55:52,652 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:52] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:55:59,848 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:59] "GET / HTTP/1.1" 200 -
+2024-06-12 23:55:59,929 - INFO - 127.0.0.1 - - [12/Jun/2024 23:55:59] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:56:02,597 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:02] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 23:56:02,624 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:02] "[36mGET /static/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-12 23:56:20,116 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:20] "GET / HTTP/1.1" 200 -
+2024-06-12 23:56:20,137 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:20] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:56:21,757 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:21] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 23:56:21,781 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:21] "[36mGET /static/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-12 23:56:50,567 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:50] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-12 23:56:50,575 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:50] "GET / HTTP/1.1" 200 -
+2024-06-12 23:56:50,604 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:50] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:56:57,740 - INFO - 127.0.0.1 - - [12/Jun/2024 23:56:57] "POST /login HTTP/1.1" 200 -
+2024-06-12 23:57:18,931 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:18] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2024-06-12 23:57:31,536 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:31] "GET / HTTP/1.1" 200 -
+2024-06-12 23:57:31,574 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:31] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:57:32,689 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:32] "POST /login HTTP/1.1" 200 -
+2024-06-12 23:57:46,793 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 23:57:46,813 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:46] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:57:46,849 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:46] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:57:46,850 - INFO - 127.0.0.1 - - [12/Jun/2024 23:57:46] "GET /static/script.js HTTP/1.1" 200 -
+2024-06-12 23:58:11,855 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:11] "GET / HTTP/1.1" 200 -
+2024-06-12 23:58:11,892 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:11] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:58:13,203 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:13] "GET /cadastro HTTP/1.1" 200 -
+2024-06-12 23:58:13,235 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:13] "[36mGET /static/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-12 23:58:38,917 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:38] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-12 23:58:38,923 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:38] "GET / HTTP/1.1" 200 -
+2024-06-12 23:58:38,966 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:38] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-12 23:58:48,949 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-12 23:58:48,956 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:48] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:58:48,993 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:48] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:58:48,994 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-12 23:58:57,423 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:57] "GET /conteudo HTTP/1.1" 200 -
+2024-06-12 23:58:57,447 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:57] "[32mDELETE /excluir/16 HTTP/1.1[0m" 302 -
+2024-06-12 23:58:57,455 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:57] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-12 23:58:57,456 - INFO - 127.0.0.1 - - [12/Jun/2024 23:58:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:01:45,453 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:45] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:01:45,481 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:45] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:01:45,483 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:01:51,855 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:51] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:01:51,858 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:51] "[32mDELETE /excluir/15 HTTP/1.1[0m" 302 -
+2024-06-13 00:01:51,886 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:51] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:01:51,887 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:01:55,490 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:55] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:01:55,514 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:55] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:01:55,515 - INFO - 127.0.0.1 - - [13/Jun/2024 00:01:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:02:12,355 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:12] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:02:12,380 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:12] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:02:12,381 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:02:17,374 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:17] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:02:17,380 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:17] "[32mDELETE /excluir/17 HTTP/1.1[0m" 302 -
+2024-06-13 00:02:17,405 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:17] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:02:17,406 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:02:35,139 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:35] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:02:35,177 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:35] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:02:35,179 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:02:44,671 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:44] "[32mDELETE /excluir/14 HTTP/1.1[0m" 302 -
+2024-06-13 00:02:44,678 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:44] "[31m[1mDELETE /conteudo HTTP/1.1[0m" 405 -
+2024-06-13 00:02:47,632 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:47] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:02:47,662 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:47] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:02:47,664 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:47] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:02:48,725 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:48] "GET / HTTP/1.1" 200 -
+2024-06-13 00:02:48,758 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:48] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-13 00:02:55,835 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:55] "GET /cadastro HTTP/1.1" 200 -
+2024-06-13 00:02:55,872 - INFO - 127.0.0.1 - - [13/Jun/2024 00:02:55] "[36mGET /static/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-13 00:03:09,173 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:09] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-13 00:03:09,180 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:09] "GET / HTTP/1.1" 200 -
+2024-06-13 00:03:09,222 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:09] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-13 00:03:12,068 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:12] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-13 00:03:12,076 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:12] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:03:12,120 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:12] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:03:12,121 - INFO - 127.0.0.1 - - [13/Jun/2024 00:03:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:04:41,525 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:41] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:04:41,560 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:41] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:41,562 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:04:43,759 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:43] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:04:43,763 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:43] "[32mDELETE /excluir/18 HTTP/1.1[0m" 302 -
+2024-06-13 00:04:43,789 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:43] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:43,790 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:04:47,619 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:47] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:04:47,648 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:47] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:47,651 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:47] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-06-13 00:04:50,256 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:50] "GET / HTTP/1.1" 200 -
+2024-06-13 00:04:50,296 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:50] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:51,308 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:51] "GET /cadastro HTTP/1.1" 200 -
+2024-06-13 00:04:51,347 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:51] "[36mGET /static/style_cadastro.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:56,468 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:56] "[32mPOST /cadastro HTTP/1.1[0m" 302 -
+2024-06-13 00:04:56,475 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:56] "GET / HTTP/1.1" 200 -
+2024-06-13 00:04:56,517 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:56] "[36mGET /static/style_login.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:59,525 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-13 00:04:59,532 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:59] "GET /conteudo HTTP/1.1" 200 -
+2024-06-13 00:04:59,576 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:59] "[36mGET /static/style_conteudo.css HTTP/1.1[0m" 304 -
+2024-06-13 00:04:59,577 - INFO - 127.0.0.1 - - [13/Jun/2024 00:04:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
